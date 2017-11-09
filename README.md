@@ -59,7 +59,7 @@ Todos metodos estan con sus correspondientes comentarios.
 Testing
 ===================================
 Se han realizado pruebas sencillas, pero por falta de tiempo su alcance no ofrece cobertura para todo el código. 
-Otros metodos como Mock y DI han sido descartados por las caracteristicas del proyecto.
+Mock y DI han sido descartados por las caracteristicas del proyecto.
 
 
 
